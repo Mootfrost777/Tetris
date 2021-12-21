@@ -1,0 +1,48 @@
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe.config
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.pdb
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csprojAssemblyReference.cache
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Form1.resources
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Properties.Resources.resources
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.GenerateResource.cache
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.exe
+C:\Users\Viosagmir\source\repos\SuperTetris v10.0\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe.config
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.pdb
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csprojAssemblyReference.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Form1.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Properties.Resources.resources
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.GenerateResource.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.CoreCompileInputs.cache
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.exe
+C:\Users\Viosagmir\Documents\Уроки 2019-2020\PROG TIME\Практикум 1\SuperTetrisLesson — копия\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.pdb
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe.config
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.pdb
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csprojAssemblyReference.cache
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Form1.resources
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Properties.Resources.resources
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.GenerateResource.cache
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.exe
+D:\C#\SuperTetrisLesso\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.pdb
+D:\C#\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csprojAssemblyReference.cache
+D:\C#\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Form1.resources
+D:\C#\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Properties.Resources.resources
+D:\C#\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.GenerateResource.cache
+D:\C#\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.exe
+D:\C#\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.pdb
+D:\C#\Tetris(QASD)\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe.config
+D:\C#\Tetris(QASD)\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe
+D:\C#\Tetris(QASD)\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.pdb
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe.config
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.exe
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\bin\Debug\SuperTetris v10.0.pdb
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csprojAssemblyReference.cache
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Form1.resources
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris_v10._0.Properties.Resources.resources
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.GenerateResource.cache
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.csproj.CoreCompileInputs.cache
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.exe
+G:\programming\C#-1\Tetris(QASD)\SuperTetris v10.0\obj\Debug\SuperTetris v10.0.pdb
